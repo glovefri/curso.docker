@@ -9,8 +9,4 @@ const PORT = 8080
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`)
-  console.log('Hello World!')
 })
-
-// adding a comment
-// adding a comment
